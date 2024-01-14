@@ -257,17 +257,17 @@ margin: 100px 100px 10px 100px;
 width: 100%;
 margin-left: 0;
 }
-
-
-
-
-    .teams-content, .facts-card-container{
+    .teams-content, .facts-card-container, .footer{
         padding-left: 20px;
         padding-right: 20px;
       }
       .facts-card-container{
         gap: 30px;
       }
+
+footer .footer{
+  margin: 0;
+}
   }
 
 
